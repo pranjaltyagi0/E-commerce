@@ -1,0 +1,9 @@
+[
+    {
+        "id" : 1,
+        "img" : "../public/logo192.png",
+        "name" : "Apple Ipod",
+        "price" : "$499",
+        "deprecatedPrice" : "599"
+    }
+]
